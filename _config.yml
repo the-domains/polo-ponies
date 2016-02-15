@@ -1,28 +1,39 @@
-name: Polo Ponies
-favicon: null
 layout_spectrum: 0.7115586460568011
-typography_spectrum: 0.25464162160642445
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.21084609208628535
-  lightness: 0.8590084931347519
-  saturation: 0.44755602232180536
-  rhythmicContrast: 0.42192529211752117
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4475560223218054
+  brandStrength: 1
+  lightness: 0.8590084931347519
+  brandColors:
+    - '#601013'
+    - '#FFFFFF'
+    - '#CFB4B4'
+    - '#B49192'
+  rhythmicContrast: 0.4219252921175212
+typography_spectrum: 0.2546416216064245
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Polo Ponies
