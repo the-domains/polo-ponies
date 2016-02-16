@@ -33,7 +33,7 @@ color:
     - '#CFB4B4'
     - '#B49192'
   brandStrength: 0.75
-  lightness: 0.7634408
-  saturation: 0.447556
-  rhythmicContrast: 0.7007169
+  lightness: 0.4375
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
