@@ -1,4 +1,4 @@
-name: Polo Ponies
+name: Thoroughbred Polo Ponies
 favicon: null
 layout_spectrum: 0.54877
 typography_spectrum: 0.2546416216064245
@@ -33,7 +33,7 @@ color:
     - '#CFB4B4'
     - '#B49192'
   brandStrength: 0.375
-  lightness: 0.4375
-  saturation: 0.5625
+  lightness: 0.625
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
