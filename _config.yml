@@ -1,4 +1,8 @@
-layout_spectrum: 0.7115586460568011
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,31 +13,27 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.4475560223218054
-  brandStrength: 1
-  lightness: 0.8590084931347519
+  saturation: 0.447556
+  brandStrength: 0.9551972
+  lightness: 0.5179211
   brandColors:
     - '#601013'
     - '#FFFFFF'
     - '#CFB4B4'
     - '#B49192'
-  rhythmicContrast: 0.4219252921175212
+  rhythmicContrast: 0.4219253
 typography_spectrum: 0.2546416216064245
+layout_spectrum: 0.7115586460568011
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 name: Polo Ponies
