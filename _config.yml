@@ -1,7 +1,7 @@
 name: Thoroughbred Polo Ponies
 favicon: null
 layout_spectrum: 0.54877
-typography_spectrum: 1
+typography_spectrum: 0.34168
 collections:
   - index:
       path: /
