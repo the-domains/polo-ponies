@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Polo Ponies]]></title>
         <description><![CDATA[Polo Ponies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/polo-ponies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 16:12:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 16:13:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/polo-ponies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We expected a strong UK sales market - We got a strong global sales market. ]]></title>
+            <description><![CDATA[<article><h1>We expected a strong UK sales market - We got a strong global sales market. </h1><p>Mikey Howe - Thoroughbred Polo Ponies Ltd founder and managing director. Mikey started TPP in 2008 expecting a strong sales market in the UK. What evolved was a</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5385fd6285e660298c89edf5147634a31c6aa20a.png"></article>]]></description>
+            <link>urn:uuid:e3a6eb5e-aa9a-4e7f-8efc-5034d93d8baa</link>
+            <guid isPermaLink="false">0ac1b023-7437-4bba-b75c-7a2c58e3cd62</guid>
+            <pubDate>Tue, 16 Feb 2016 16:13:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dda0cee-10f0-4a50-9b50-8ded0c44e840.jpg">]]></description>
-            <link>undefined6a0e4a7a-7c36-435f-ad6d-d885d369e29f/index.html</link>
+            <link>https://thegrid.ai/polo-ponies/6a0e4a7a-7c36-435f-ad6d-d885d369e29f/index.html</link>
             <guid isPermaLink="false">6a0e4a7a-7c36-435f-ad6d-d885d369e29f</guid>
             <pubDate>Tue, 16 Feb 2016 16:12:46 GMT</pubDate>
         </item>
