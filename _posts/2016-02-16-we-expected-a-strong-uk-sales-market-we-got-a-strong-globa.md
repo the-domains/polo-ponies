@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:e3a6eb5e-aa9a-4e7f-8efc-5034d93d8baa'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Mikey Howe - Thoroughbred Polo Ponies Ltd founder and managing director. Mikey started TPP in 2008 expecting a strong sales market in the UK. What evolved was a
-datePublished: '2016-02-16T16:13:15.001Z'
-dateModified: '2016-02-16T16:10:55.403Z'
+datePublished: '2016-02-16T16:25:31.399Z'
+dateModified: '2016-02-16T16:25:29.756Z'
 author: []
 title: "We expected a strong UK sales market - We got a strong global sales market.\_"
+sourcePath: _posts/2016-02-16-we-expected-a-strong-uk-sales-market-we-got-a-strong-globa.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-we-expected-a-strong-uk-sales-market-we-got-a-strong-globa.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
