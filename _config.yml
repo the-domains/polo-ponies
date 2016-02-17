@@ -1,40 +1,40 @@
-name: Thoroughbred Polo Ponies
 favicon: null
-layout_spectrum: 0.74555
-typography_spectrum: 0.34168
+name: Thoroughbred Polo Ponies
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.5537634
+  brandStrength: 0.5
+  lightness: 0.5250896
   brandColors:
     - '#601013'
     - '#ffffff'
     - '#663b3d'
     - '#8c5b5e'
     - '#ccaaaa'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.34168
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.74555
+analytics:
+  twitter: null
+  google: null
+  facebook: null
